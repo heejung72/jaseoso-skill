@@ -1,0 +1,11 @@
+{
+  "name": "jasoseo-skill",
+  "version": "0.1.0",
+  "description": "채용공고/JD 기반 자기소개서 첨삭 및 작성 지원 Claude Code 스킬",
+  "author": {
+    "name": "hee"
+  },
+  "license": "MIT",
+  "keywords": ["자소서", "자기소개서", "취업", "JD", "cover-letter", "korean"],
+  "skills": ["./skills/"]
+}
